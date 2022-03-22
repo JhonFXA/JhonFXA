@@ -1,9 +1,4 @@
-### Olá! Meu nome é Jonathan 👋
-
-- 💻 Estudo Ciência da Computação na UFS e Desenvolvimento Web
-- 🙋‍♂️ Ele/Dele
-- 📫 Contato: jonathanbispo085@gmail.com
-##
+<h1>Olá! Meu nome é Jonathan👋</h1>
 <div align="center">
   <a href="https://github.com/JhonFXA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonFXA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
