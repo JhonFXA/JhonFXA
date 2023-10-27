@@ -7,6 +7,9 @@
     <p align="left">
       Sou <strong>Jonathan Henrique</strong>, um estudante de 19 anos, atualmente cursando Ciência da Computação. Meu fascínio pela programação e pela resolução de problemas me impulsiona a explorar o vasto mundo da informática. Estou constantemente em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. 
     </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+  
 <div>
   <p>
     📗<strong>Atualmente estudando:</strong>
