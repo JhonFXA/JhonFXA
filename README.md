@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git" alt="Git">
   </p>
 </div>
