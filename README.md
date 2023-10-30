@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github" alt="Github">
   </p>
 </div>
 
