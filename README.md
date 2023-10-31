@@ -15,11 +15,16 @@
     📗<strong>Atualmente estudando:</strong>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github" alt="Github">
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=50D7C9" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=50D7C9" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=50D7C9" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=50D7C9"" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=50D7C9"" alt="Github">
   </p>
 </div>
+<div>
+  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JhonFXA&bg_color=000&border_color=50D7C9&title_color=50D7C9&text_color=FFF)
+</div>
+
 
