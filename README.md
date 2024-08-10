@@ -3,9 +3,6 @@
   <div>
     <h1 align="">Oi 👋, meu nome é Jonathan</h1>
     <h3 align="">Estudante de Ciência da Computação</h3>
-    <p align="left">
-      Meu fascínio pela programação e pela resolução de problemas me impulsiona a explorar o vasto mundo da informática. Estou constantemente em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. 
-    </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   
