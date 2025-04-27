@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=50D7C9" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=50D7C9" alt="Github">
     <img src="https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=50D7C9" alt="C">
-    <img src="https://img.shields.io/badge/java-05122A?style=for-the-badge&logo=openjdk&logoColor=50D7C9" alt="Java">
 
   </p>
 </div>
