@@ -1,1 +1,28 @@
-<img align="right" style="display" height="140em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d076937-402e-4df4-8ea8-dd4064adc139/dclaroc-a88cbdcb-2cc8-40f0-91d5-fec4f4a6e332.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkMDc2OTM3LTQwMmUtNGRmNC04ZWE4LWRkNDA2NGFkYzEzOVwvZGNsYXJvYy1hODhjYmRjYi0yY2M4LTQwZjAtOTFkNS1mZWM0ZjRhNmUzMzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8PAm480orKG75X6CpE_zVDvSvt4p1nlrbNXlk--NZyM">
+![](https://komarev.com/ghpvc/?username=JhonFXA&color=blueviolet)
+# Hi 👋, I'm Jonathan Henrique
+
+### Computer Science Student, Developer and 2D/3D Animator
+
+
+- 🔭 I'm currently working on
+  -  **A Portal Gun Add-on for Minecraft Bedrock Edition based on Rick and Morty**.
+  -  **A college software engineering project consisting of a website for managing high-cost medications.**
+
+- 🌱 I'm currently learning **React and Python**
+
+- 📫 How to reach me **jonathanbispo085@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/JhonFXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JhonFXA" height="30" width="40" /></a>
+<a href="https://youtube.com/JhonFX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JhonFX" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonFXA&" alt="JhonFXA" /></p>
+<img align="right" style="display" height="180em" src="https://media.tenor.com/xmQHvbjDqIQAAAAj/minecraft.gif">
+<img align="left" style="display" height="140em" src="https://preview.redd.it/trying-to-find-the-original-artist-behind-these-pixel-art-v0-9a33nh1myiie1.gif?width=870&auto=webp&s=81f10609d5655435392ebd8827cd36a1dcaf642a">
+
