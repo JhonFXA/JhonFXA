@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working on
   -  **A Portal Gun Add-on for Minecraft Bedrock Edition based on Rick and Morty**.
-  -  **A college software engineering project consisting of a website for managing high-cost medications.**
 
 - 🌱 I'm currently learning **React and Python**
 
