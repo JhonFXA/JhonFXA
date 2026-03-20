@@ -7,8 +7,6 @@
 - 🔭 I'm currently working on
   -  **A Portal Gun Add-on for Minecraft Bedrock Edition based on Rick and Morty**.
 
-- 🌱 I'm currently learning **React and Python**
-
 - 📫 How to reach me **jonathanbispo085@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
